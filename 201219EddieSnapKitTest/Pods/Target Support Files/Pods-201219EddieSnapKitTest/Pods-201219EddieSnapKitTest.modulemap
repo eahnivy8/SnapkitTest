@@ -1,0 +1,6 @@
+framework module Pods_201219EddieSnapKitTest {
+  umbrella header "Pods-201219EddieSnapKitTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
